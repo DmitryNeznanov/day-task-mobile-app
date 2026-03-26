@@ -3,7 +3,7 @@ import "../global.css"
 export default function RootLayout() {
   return (
     <View>
-      <Text className=" text-pink-800 font-black">Tailwind test test</Text>
+      <Text className=" text-pink-800 font-black">Tailwind test1eqweq</Text>
     </View>
   )
 }

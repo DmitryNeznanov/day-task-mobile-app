@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <View className="hidden text-white">
       <Text className="text-pink-800 font-black">
-        Edit src/app/index.tsx to edit thi
+        Edit src/app/index.tsx to edit this
       </Text>
     </View>
   )
